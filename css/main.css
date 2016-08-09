@@ -124,3 +124,184 @@ textarea {
 	margin-bottom:5px;
 
 }
+.center{
+	text-align:center;
+}
+
+.h3{
+	margin-bottom:5px;
+
+}
+
+.parficon{
+	margin-bottom:65px; /*textoicono2daseccion*/
+}
+
+.iconos{
+	margin:auto;
+	display:block;
+	size:20px;
+}
+.buttonport{    /*botones portafolio*/
+ width:110px;
+ height:50px;
+ background-color:white;
+margin-top:35px;
+
+}
+
+#primerboton{ /*de portafolio*/
+	margin-left:250px;
+	 
+}
+
+
+.buttonport:hover{ 
+	cursor:pointer;
+	background-color:#0dc0c0;
+}
+a{
+	text-decoration:none;
+}
+#load{
+	width:110px; /*botonload*/
+	 height:50px;
+ 	background-color:#424242;
+ 	border:#424242;
+ 	margin:auto;
+ 	display:block;
+}
+
+#load:hover{
+	cursor:pointer;
+}
+
+
+.portfolio{   /*titulo portafolio*/
+	font-size:35px;
+	margin:18px;
+}
+.black{
+	color:black;
+}
+
+#fondogris{
+	height:1600px;
+	background-color:#BDBDBD;
+}
+
+.bg-white{
+	width:520px;
+	height:410px;
+	background-color:white;
+	margin-top:20px;
+	margin-left:30px;
+	margin-bottom:15px;
+
+}
+
+.imgrid{
+	width:480px;
+	height:320px;
+	margin:15px 0px 20px 20px;
+}
+
+#customer{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	margin:auto;
+	display:block;
+}
+
+.back{
+	background-image:url("../img/background/contactus.jpg");
+    height:750px;
+    background-size:100%;
+   
+
+}
+
+.fondo{
+	background-color:rgba(0,0,0,0.5);
+	height:750px;
+}
+
+
+
+.justificar{
+	text-align:justify;
+}
+
+.position{
+	display:inline-block;
+}
+
+.bg-gris{
+	background-color:#1C1C1C;
+	height:80px;
+
+}
+
+.inline{
+	display:inline-block;
+	margin-bottom:20px;
+	margin-left:10px;
+	
+}
+
+.what{ /*titulos color gris*/
+	font-size:30px;
+	
+}
+
+.margin{
+	margin:40px 0px;
+}
+
+.margin2{
+	margin-top:0px;
+}
+
+#facebook{
+	margin-left:460px;
+}
+
+#footer{
+	margin-top:20px;
+	background-size:100%;
+}
+
+form { /* formulario*/
+	width: 350px;
+	background: rgba(0,0,0,.1);
+	padding: 20px 30px;
+	margin: 20px 30px;
+	border-radius: 10px;
+	box-sizing: border-box;
+	opacity: 0.8;
+}
+h2 {
+	color: white;
+	margin: 10px;
+	font-size: 30px;
+}
+input, textarea {
+	width: 100%;
+	padding: 10px;
+	font-size: 14px;
+	margin: 10px;
+	color: white;
+}
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+}
+#botonform {
+	background-color: #5BDACE;
+	color: white;
+	padding: 10px; 
+	margin: 10px;
+}
+
